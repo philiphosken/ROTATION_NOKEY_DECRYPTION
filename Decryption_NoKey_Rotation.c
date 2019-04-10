@@ -2,9 +2,6 @@
 
 int main()
 {
-char alphatxt[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ ";
-
-/* char subtxt[] = unknown */
 
 char N = 27;
 unsigned char str[1024];
@@ -20,6 +17,19 @@ out = fopen("out.txt", "w");
         printf("%s", str);
         }
         
+        for (k = 0 ; k < 26 ; k++){
+            
+
+        }
+        do k = 0
+        if not a word add k
+        match yes 
+        no add k
+        //if str matches dictionary --> print result --> else + k
+        //if str + k matches dictioonary --> print reselt --> else + k
+        
+      
+        }
         
         
         
